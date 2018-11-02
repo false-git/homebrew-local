@@ -3,7 +3,7 @@ require 'formula'
 class Libvncserver < Formula
   homepage 'http://libvncserver.sourceforge.net/'
   url 'http://sourceforge.net/projects/libvncserver/files/libvncserver/0.9.9/LibVNCServer-0.9.9.tar.gz/download'
-  sha1 '2004c6ae493baeff3da40b61e0a0f73c83182dad'
+  sha256 'cf060d3525c2fb92be2fa18bbc697fb355592b52484e60745f3bcac5c3f803f9'
 
   depends_on 'libjpeg-turbo'
 
